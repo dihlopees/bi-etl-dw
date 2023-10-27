@@ -1,5 +1,5 @@
 # Trabalho submetido para máteria de Business Intelligence 
-Aluna: Ingrid Rieser Lopes de Oliveira
+Aluna: Ingrid Rieser Lopes de Oliveira </br>
 Professor: Juscelino 
 
 # Implementação:
